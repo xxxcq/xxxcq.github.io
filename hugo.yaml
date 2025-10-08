@@ -1,5 +1,5 @@
 # 站点基础配置
-baseurl: https://example.com/           # 网站根URL
+baseurl: https://xxxcq.github.io/           # 网站根URL
 languageCode: en-us                     # 默认语言代码
 theme: hugo-theme-stack                 # 使用的主题名称
 title: Example Site                     # 网站标题
